@@ -1,7 +1,7 @@
 {
 
 
-  "source": "index.js",
+  "source": "src/index.js",
 
 
   "main": "dist/main.js",
