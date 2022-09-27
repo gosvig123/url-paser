@@ -1,5 +1,5 @@
 Arguments: 
-  /Users/kristian/.nvm/versions/node/v16.17.0/bin/node /Users/kristian/.nvm/versions/node/v16.17.0/bin/yarn build
+  /Users/kristian/.nvm/versions/node/v16.17.0/bin/node /Users/kristian/.nvm/versions/node/v16.17.0/bin/yarn add mocha
 
 PATH: 
   /Users/kristian/.nvm/versions/node/v16.17.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/kristian/.nvm/versions/node/v16.17.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.10/bin

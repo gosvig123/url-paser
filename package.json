@@ -2,17 +2,38 @@
 
 
   "source": "index.js",
+
+
   "main": "dist/main.js",
-  "module": "dist.moodule.js"
+
+
+  "module": "dist.module.js",
+
+
   "type": "module",
+
+
   "scripts": {
+
+
     "watch": "parcel watch",
+
+
     "build": "parcel build"
+
+
   },
-  "devDependencies": {
-    
 
 
-    
+  "dependencies": {
+
+
+    "mocha": "^10.0.0"
+
+
   }
+
+
 }
+
+
