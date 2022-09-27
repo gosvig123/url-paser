@@ -1,0 +1,1 @@
+{"mappings":";AAAA,KAAK,CAAC,EAAE;AACR,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC","sources":["index.js"],"sourcesContent":["index.js\nconsole.log('test')"],"names":[],"version":3,"file":"dist.moodule.js.map"}

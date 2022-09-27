@@ -1,0 +1,18 @@
+{
+
+
+  "source": "index.js",
+  "main": "dist/main.js",
+  "module": "dist.moodule.js"
+  "type": "module",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    
+
+
+    
+  }
+}
