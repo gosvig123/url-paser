@@ -23,5 +23,6 @@ function URLScan(url) {
     return object
 }
 
-console.log(URLScan('http://www.arol.dev/test123'))
+
+
 export default URLScan
